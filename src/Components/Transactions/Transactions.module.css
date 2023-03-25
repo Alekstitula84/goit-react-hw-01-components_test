@@ -29,9 +29,9 @@ table td {
 
 table tr {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   border-bottom: solid 1px #c6cccce6;
 }
-table tr:not(:last-child) {
+/* table tr:not(:last-child) {
   margin-bottom: 5px;
-}
+} */
